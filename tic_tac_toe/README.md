@@ -1,0 +1,3 @@
+This is a small step in a big journey to learn C++ well enough to build some serious projects. This is just a simple two player tic-tac-toe game as the name would imply. All that is included is is the .cpp file which contains all the code needed to play. While building this, I learned to check vector indices and a little bit about conditions.
+
+In particular, you cannot make the statement if (i == j == k), which would be valid in Python, but C++ reads this as if ((i==j)==k). Unless k is a boolean (or easily converted to one), this statement will always be false. Also, unless user input is checked, they may accidentally attempt to manipulate memory beyond the bounds of a vector; this can cause a myriad of problems.
