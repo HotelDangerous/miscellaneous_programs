@@ -1,0 +1,1 @@
+miscellaneous_programs are one off programs that I have written out of interest and likely for the sake of learning. These projects are not a part of any larger structure. They are simple, one off projects that serve best as a historical record for myself.
