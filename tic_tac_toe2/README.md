@@ -1,4 +1,5 @@
-Tic-Tac-Toe 2:\n
+Tic-Tac-Toe 2:
+
 tic_tac_toe2 plays the same way as tic_tac_toe. The only difference between this program and the one in the tic_tac_toe folder is that you can play against the computer in this version. You can choose to be either 'X's or 'O's. The computer is pretty bad at the game just playing random moves. It could be interesting to give it some hueristics to play better moves. However, at the moment, I am not particularly interested in learning the theory of tic-tac-toe.
 
 This is a small step in a big journey to learn C++ well enough to build some serious projects. This is just a simple two player tic-tac-toe game as the name would imply. All that is included is is the .cpp file which contains all the code needed to play. While building this, I learned to check vector indices and a little bit about conditions.
